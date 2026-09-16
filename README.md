@@ -2,10 +2,9 @@
 
 ## Student Details
 
-- **Name:** Sanjana Bashya
-- **Roll No: 150096725113
-- **Cohort:** Larry Page
-
+* **Name:** Sanjana Bashya
+* **Roll No:** 150096725113
+* **Cohort:** Larry Page
 
 ## About the Assignment
 
@@ -31,18 +30,18 @@ This repository contains 15 Java programming problems covering concepts from bas
 
 ## Concepts Covered
 
-- Variables and Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Methods
-- Classes and Objects
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- Interfaces
-- User Input using Scanner
+* Variables and Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Methods
+* Classes and Objects
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+* Interfaces
+* User Input using Scanner
 
 ## How to Run
 
@@ -50,26 +49,32 @@ Compile a program:
 
 ```bash
 javac FileName.java
+```
 
 Run the program:
 
+```bash
 java FileName
+```
 
 Example:
 
+```bash
 javac ElectricityBillCalculator.java
 java ElectricityBillCalculator
-Testing
+```
+
+## Testing
 
 Each program was tested using multiple test cases, including normal and boundary/invalid inputs where applicable.
 
-Tools Used
-Java
-VS Code
-Terminal
-Git & GitHub
+## Tools Used
 
-Conclusion
+* Java
+* VS Code
+* Terminal
+* Git & GitHub
+
+## Conclusion
+
 This assignment demonstrates the progression from basic Java programming concepts to Object-Oriented Programming concepts through practical real-world problems.
-
-
